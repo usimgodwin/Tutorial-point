@@ -1,0 +1,65 @@
+body{
+margin:0;
+padding:0;
+background-color:white;
+}
+.container{
+overflow:hidden;
+}
+header{
+padding:10px;
+color:white;
+text-align:center;
+border-bottom:5px solid red;
+background-color:black;
+border-top:5px solid red;
+font-size:25px;
+font-size:25px;
+}
+header nav{
+text-align:left;
+}
+header li{
+display:inline-block;
+padding:10px;
+}
+header a{
+color:white;
+}
+#nav{
+float:right;
+}
+img{
+height:50%;
+width:100%;
+}
+#customary h1{
+font-size:45px;
+color:black;
+text-align:left;
+}
+#customary p{
+font-size:45px;
+}
+#culture h2{
+font-size:45px;
+text-align:left;
+}
+#culture p{
+font-size:45px;
+}
+#picture h1{
+font-size:45px;
+}
+#picture{
+font-size:45px;
+}
+#Newsletter h1{
+font-size:45px;
+}
+#Newsletter p{
+font-size:45px;
+}
+
+
+
